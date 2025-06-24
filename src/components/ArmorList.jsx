@@ -16,7 +16,9 @@ function ArmorList({ job, armorType }) {
         setError(null);
         // Add timestamp to prevent browser caching
         const timestamp = new Date().getTime();
-        const response = await fetch(`/data/${armorType}.json?t=${timestamp}`);
+        // Use relative or absolute path based on import.meta.env.BASE_URL
+        const base = import.meta.env.BASE_URL || '/';
+        const response = await fetch(`${base}data/${armorType}.json?t=${timestamp}`);
         if (!response.ok) throw new Error(`Failed to load ${armorType} data`);
         
         const data = await response.json();

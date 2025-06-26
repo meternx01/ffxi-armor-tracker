@@ -3,7 +3,7 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  // Base path for GitHub Pages - use repository name (you'll need to replace this with your actual repository name)
+  // Base path for GitHub Pages - specifically for meternx01.github.io/ffxi-armor-tracker deployment
   base: "/ffxi-armor-tracker/",
   plugins: [react()],
   server: {

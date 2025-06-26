@@ -13,11 +13,14 @@ function App() {
   useEffect(() => {
     const loadJobs = async () => {
       try {
-        // Load all armor data files
+        // Get base URL from import.meta.env.BASE_URL or default to '/'
+        const base = import.meta.env.BASE_URL || '/';
+        
+        // Load all armor data files with correct base path
         const responses = await Promise.all([
-          fetch('/data/Artifact.json'),
-          fetch('/data/Relic.json'),
-          fetch('/data/Empyrean.json')
+          fetch(`${base}data/Artifact.json`),
+          fetch(`${base}data/Relic.json`),
+          fetch(`${base}data/Empyrean.json`)
         ]);
 
         // Check if any response failed

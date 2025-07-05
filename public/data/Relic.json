@@ -57,6 +57,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -122,6 +126,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -187,6 +195,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -252,6 +264,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -317,6 +333,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -382,6 +402,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -447,6 +471,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -512,6 +540,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -577,6 +609,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -642,6 +678,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -707,6 +747,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -772,6 +816,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -837,6 +885,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -902,6 +954,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -967,6 +1023,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1032,6 +1092,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1097,6 +1161,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1162,6 +1230,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1227,6 +1299,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1292,6 +1368,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1357,6 +1437,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1422,6 +1506,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1487,6 +1575,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1552,6 +1644,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1617,6 +1713,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1682,6 +1782,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1747,6 +1851,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1812,6 +1920,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1877,6 +1989,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -1942,6 +2058,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2007,6 +2127,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2072,6 +2196,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2137,6 +2265,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2202,6 +2334,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2267,6 +2403,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2332,6 +2472,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2397,6 +2541,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2462,6 +2610,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2527,6 +2679,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2592,6 +2748,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2657,6 +2817,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2722,6 +2886,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2787,6 +2955,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2852,6 +3024,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2917,6 +3093,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -2982,6 +3162,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3047,6 +3231,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3112,6 +3300,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3177,6 +3369,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3242,6 +3438,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3307,6 +3507,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3372,6 +3576,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3437,6 +3645,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3502,6 +3714,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3567,6 +3783,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3632,6 +3852,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3697,6 +3921,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3762,6 +3990,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3827,6 +4059,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3892,6 +4128,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -3957,6 +4197,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4022,6 +4266,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4087,6 +4335,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4152,6 +4404,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4217,6 +4473,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4282,6 +4542,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4347,6 +4611,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4412,6 +4680,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4477,6 +4749,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4542,6 +4818,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4607,6 +4887,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4672,6 +4956,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4737,6 +5025,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4802,6 +5094,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4867,6 +5163,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4932,6 +5232,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -4997,6 +5301,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5062,6 +5370,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5127,6 +5439,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5192,6 +5508,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5257,6 +5577,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5322,6 +5646,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5387,6 +5715,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5452,6 +5784,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5517,6 +5853,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5582,6 +5922,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5647,6 +5991,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5712,6 +6060,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5777,6 +6129,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5842,6 +6198,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5907,6 +6267,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -5972,6 +6336,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6037,6 +6405,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6102,6 +6474,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6167,6 +6543,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6232,6 +6612,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6297,6 +6681,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6362,6 +6750,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6427,6 +6819,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6492,6 +6888,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": "Monisette",
@@ -6536,6 +6936,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6580,6 +6984,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6624,6 +7032,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6668,6 +7080,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6712,6 +7128,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6756,6 +7176,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6800,6 +7224,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6844,6 +7272,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6888,6 +7320,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6932,6 +7368,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -6976,6 +7416,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7020,6 +7464,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7064,6 +7512,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7108,6 +7560,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7152,6 +7608,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7196,6 +7656,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7240,6 +7704,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7284,6 +7752,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7328,6 +7800,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7372,6 +7848,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7416,6 +7896,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7460,6 +7944,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7504,6 +7992,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7548,6 +8040,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7592,6 +8088,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7636,6 +8136,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7680,6 +8184,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7724,6 +8232,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7768,6 +8280,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7812,6 +8328,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7856,6 +8376,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7900,6 +8424,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7944,6 +8472,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -7988,6 +8520,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8032,6 +8568,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8076,6 +8616,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8120,6 +8664,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8164,6 +8712,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8208,6 +8760,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8252,6 +8808,10 @@
           {
             "item": "Wootz Ore",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8296,6 +8856,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8340,6 +8904,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8384,6 +8952,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8428,6 +9000,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8472,6 +9048,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8516,6 +9096,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8560,6 +9144,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8604,6 +9192,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8648,6 +9240,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8692,6 +9288,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8736,6 +9336,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8780,6 +9384,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8824,6 +9432,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8868,6 +9480,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8912,6 +9528,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -8956,6 +9576,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9000,6 +9624,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9044,6 +9672,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9088,6 +9720,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9132,6 +9768,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9176,6 +9816,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9220,6 +9864,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9264,6 +9912,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9308,6 +9960,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9352,6 +10008,10 @@
           {
             "item": "Relic Iron",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9396,6 +10056,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9440,6 +10104,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9484,6 +10152,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9528,6 +10200,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9572,6 +10248,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9616,6 +10296,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9660,6 +10344,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9704,6 +10392,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9748,6 +10440,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9792,6 +10488,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9836,6 +10536,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9880,6 +10584,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9924,6 +10632,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -9968,6 +10680,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10012,6 +10728,10 @@
           {
             "item": "Griffon Hide",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10056,6 +10776,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10100,6 +10824,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10144,6 +10872,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10188,6 +10920,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10232,6 +10968,10 @@
           {
             "item": "Sparkling Stone",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10276,6 +11016,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10320,6 +11064,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10364,6 +11112,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10408,6 +11160,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10452,6 +11208,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10496,6 +11256,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10540,6 +11304,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10584,6 +11352,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10628,6 +11400,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10672,6 +11448,10 @@
           {
             "item": "Mammoth Tusk",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10716,6 +11496,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10760,6 +11544,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10804,6 +11592,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10848,6 +11640,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -10892,6 +11688,10 @@
           {
             "item": "Lancewood Log",
             "quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15315,6 +16115,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15338,6 +16146,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15361,6 +16177,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15384,6 +16208,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15407,6 +16239,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15430,6 +16270,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15453,6 +16301,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15476,6 +16332,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15499,6 +16363,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15522,6 +16394,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15545,6 +16425,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15568,6 +16456,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15591,6 +16487,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15614,6 +16518,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15637,6 +16549,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15660,6 +16580,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15683,6 +16611,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15706,6 +16642,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15729,6 +16673,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15752,6 +16704,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15775,6 +16735,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15798,6 +16766,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15821,6 +16797,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15844,6 +16828,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15867,6 +16859,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15890,6 +16890,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15913,6 +16921,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15936,6 +16952,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15959,6 +16983,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -15982,6 +17014,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16005,6 +17045,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16028,6 +17076,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16051,6 +17107,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16074,6 +17138,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16097,6 +17169,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16120,6 +17200,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16143,6 +17231,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16166,6 +17262,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16189,6 +17293,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16212,6 +17324,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Wootz Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16235,6 +17355,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16258,6 +17386,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16281,6 +17417,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16304,6 +17448,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16327,6 +17479,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16350,6 +17510,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16373,6 +17541,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16396,6 +17572,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16419,6 +17603,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16442,6 +17634,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16465,6 +17665,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16488,6 +17696,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16511,6 +17727,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16534,6 +17758,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16557,6 +17789,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16580,6 +17820,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16603,6 +17851,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16626,6 +17882,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16649,6 +17913,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16672,6 +17944,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16695,6 +17975,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16718,6 +18006,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16741,6 +18037,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16764,6 +18068,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16787,6 +18099,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Relic Iron",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16810,6 +18130,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16833,6 +18161,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16856,6 +18192,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16879,6 +18223,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16902,6 +18254,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16925,6 +18285,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16948,6 +18316,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16971,6 +18347,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -16994,6 +18378,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17017,6 +18409,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17040,6 +18440,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17063,6 +18471,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17086,6 +18502,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17109,6 +18533,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17132,6 +18564,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Griffon Hide",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17155,6 +18595,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17178,6 +18626,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17201,6 +18657,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17224,6 +18688,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17247,6 +18719,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Sparkling Stone",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17270,6 +18750,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17293,6 +18781,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17316,6 +18812,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17339,6 +18843,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17362,6 +18874,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17385,6 +18905,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17408,6 +18936,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17431,6 +18967,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17454,6 +18998,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17477,6 +19029,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Mammoth Tusk",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17500,6 +19060,14 @@
           {
             "item": "Rem's Tale Ch.1",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Phoenix Feather",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17523,6 +19091,14 @@
           {
             "item": "Rem's Tale Ch.2",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Malboro Fiber",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17546,6 +19122,14 @@
           {
             "item": "Rem's Tale Ch.3",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Beetle Blood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17569,6 +19153,14 @@
           {
             "item": "Rem's Tale Ch.4",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Damascene Cloth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17592,6 +19184,14 @@
           {
             "item": "Rem's Tale Ch.5",
             "quantity": 5
+					},
+					{
+						"item": "Lancewood Log",
+						"quantity": 1
+					},
+					{
+						"item": "Oxblood",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17615,6 +19215,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17638,6 +19246,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17661,6 +19277,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17684,6 +19308,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17707,6 +19339,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17730,6 +19370,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17753,6 +19401,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17776,6 +19432,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17799,6 +19463,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17822,6 +19494,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17845,6 +19525,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17868,6 +19556,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17891,6 +19587,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17914,6 +19618,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17937,6 +19649,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17960,6 +19680,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -17983,6 +19711,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18006,6 +19742,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18029,6 +19773,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18052,6 +19804,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18075,6 +19835,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18098,6 +19866,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18121,6 +19897,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18144,6 +19928,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18167,6 +19959,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18190,6 +19990,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18213,6 +20021,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18236,6 +20052,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18259,6 +20083,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18282,6 +20114,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18305,6 +20145,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18328,6 +20176,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18351,6 +20207,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18374,6 +20238,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18397,6 +20269,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18420,6 +20300,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18443,6 +20331,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18466,6 +20362,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18489,6 +20393,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18512,6 +20424,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18535,6 +20455,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18558,6 +20486,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18581,6 +20517,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18604,6 +20548,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18627,6 +20579,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18650,6 +20610,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18673,6 +20641,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18696,6 +20672,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18719,6 +20703,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18742,6 +20734,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18765,6 +20765,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18788,6 +20796,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18811,6 +20827,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18834,6 +20858,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18857,6 +20889,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18880,6 +20920,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18903,6 +20951,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18926,6 +20982,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18949,6 +21013,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18972,6 +21044,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -18995,6 +21075,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19018,6 +21106,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19041,6 +21137,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19064,6 +21168,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19087,6 +21199,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19110,6 +21230,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19133,6 +21261,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19156,6 +21292,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19179,6 +21323,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19202,6 +21354,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Voidwrought Plate",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19225,6 +21385,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19248,6 +21416,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19271,6 +21447,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19294,6 +21478,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19317,6 +21509,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19340,6 +21540,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19363,6 +21571,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19386,6 +21602,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19409,6 +21633,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19432,6 +21664,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Pil's Tuille",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19455,6 +21695,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19478,6 +21726,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19501,6 +21757,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19524,6 +21788,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19547,6 +21819,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Kaggen's Cuticle",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19570,6 +21850,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19593,6 +21881,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19616,6 +21912,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19639,6 +21943,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19662,6 +21974,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Hahava's Mail",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19685,6 +22005,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19708,6 +22036,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19731,6 +22067,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19754,6 +22098,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19777,6 +22129,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19800,6 +22160,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19823,6 +22191,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19846,6 +22222,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19869,6 +22253,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19892,6 +22284,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19915,6 +22315,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19938,6 +22346,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19961,6 +22377,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -19984,6 +22408,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20007,6 +22439,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Akvan's Pennon",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20030,6 +22470,14 @@
           {
             "item": "Rem's Tale Ch.6",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20053,6 +22501,14 @@
           {
             "item": "Rem's Tale Ch.7",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20076,6 +22532,14 @@
           {
             "item": "Rem's Tale Ch.8",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20099,6 +22563,14 @@
           {
             "item": "Rem's Tale Ch.9",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20122,6 +22594,14 @@
           {
             "item": "Rem's Tale Ch.10",
             "quantity": 8
+					},
+					{
+						"item": "Celaeno's Cloth",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": " Monisette",
@@ -20145,6 +22625,14 @@
           {
             "item": "Headshard: WAR",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20168,6 +22656,14 @@
           {
             "item": "Torsoshard: WAR",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20191,6 +22687,14 @@
           {
             "item": "Handshard: WAR",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20214,6 +22718,14 @@
           {
             "item": "Legshard: WAR",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20237,6 +22749,14 @@
           {
             "item": "Footshard: WAR",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20260,6 +22780,14 @@
           {
             "item": "Headshard: MNK",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20283,6 +22811,14 @@
           {
             "item": "Torsoshard: MNK",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20306,6 +22842,14 @@
           {
             "item": "Handshard: MNK",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20329,6 +22873,14 @@
           {
             "item": "Legshard: MNK",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20352,6 +22904,14 @@
           {
             "item": "Footshard: MNK",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20375,6 +22935,14 @@
           {
             "item": "Headshard: WHM",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20398,6 +22966,14 @@
           {
             "item": "Torsoshard: WHM",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20421,6 +22997,14 @@
           {
             "item": "Handshard: WHM",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20444,6 +23028,14 @@
           {
             "item": "Legshard: WHM",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20467,6 +23059,14 @@
           {
             "item": "Footshard: WHM",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20490,6 +23090,14 @@
           {
             "item": "Headshard: BLM",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20513,6 +23121,14 @@
           {
             "item": "Torsoshard: BLM",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20536,6 +23152,14 @@
           {
             "item": "Handshard: BLM",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20559,6 +23183,14 @@
           {
             "item": "Legshard: BLM",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20582,6 +23214,14 @@
           {
             "item": "Footshard: BLM",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20605,6 +23245,14 @@
           {
             "item": "Headshard: RDM",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20628,6 +23276,14 @@
           {
             "item": "Torsoshard: RDM",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20651,6 +23307,14 @@
           {
             "item": "Handshard: RDM",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20674,6 +23338,14 @@
           {
             "item": "Legshard: RDM",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20697,6 +23369,14 @@
           {
             "item": "Footshard: RDM",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20720,6 +23400,14 @@
           {
             "item": "Headshard: THF",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20743,6 +23431,14 @@
           {
             "item": "Torsoshard: THF",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20766,6 +23462,14 @@
           {
             "item": "Handshard: THF",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20789,6 +23493,14 @@
           {
             "item": "Legshard: THF",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20812,6 +23524,14 @@
           {
             "item": "Footshard: THF",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20835,6 +23555,14 @@
           {
             "item": "Headshard: PLD",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20858,6 +23586,14 @@
           {
             "item": "Torsoshard: PLD",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20881,6 +23617,14 @@
           {
             "item": "Handshard: PLD",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20904,6 +23648,14 @@
           {
             "item": "Legshard: PLD",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20927,6 +23679,14 @@
           {
             "item": "Footshard: PLD",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20950,6 +23710,14 @@
           {
             "item": "Headshard: DRK",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20973,6 +23741,14 @@
           {
             "item": "Torsoshard: DRK",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -20996,6 +23772,14 @@
           {
             "item": "Handshard: DRK",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21019,6 +23803,14 @@
           {
             "item": "Legshard: DRK",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21042,6 +23834,14 @@
           {
             "item": "Footshard: DRK",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21065,6 +23865,14 @@
           {
             "item": "Headshard: BST",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21088,6 +23896,14 @@
           {
             "item": "Torsoshard: BST",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21111,6 +23927,14 @@
           {
             "item": "Handshard: BST",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21134,6 +23958,14 @@
           {
             "item": "Legshard: BST",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21157,6 +23989,14 @@
           {
             "item": "Footshard: BST",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21180,6 +24020,14 @@
           {
             "item": "Headshard: BRD",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21203,6 +24051,14 @@
           {
             "item": "Torsoshard: BRD",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21226,6 +24082,14 @@
           {
             "item": "Handshard: BRD",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21249,6 +24113,14 @@
           {
             "item": "Legshard: BRD",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21272,6 +24144,14 @@
           {
             "item": "Footshard: BRD",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21295,6 +24175,14 @@
           {
             "item": "Headshard: RNG",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21318,6 +24206,14 @@
           {
             "item": "Torsoshard: RNG",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21341,6 +24237,14 @@
           {
             "item": "Handshard: RNG",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21364,6 +24268,14 @@
           {
             "item": "Legshard: RNG",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21387,6 +24299,14 @@
           {
             "item": "Footshard: RNG",
             "quantity": 2
+					},
+					{
+						"item": "S. Faulpie Leather",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21410,6 +24330,14 @@
           {
             "item": "Headshard: SAM",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21433,6 +24361,14 @@
           {
             "item": "Torsoshard: SAM",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21456,6 +24392,14 @@
           {
             "item": "Handshard: SAM",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21479,6 +24423,14 @@
           {
             "item": "Legshard: SAM",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21502,6 +24454,14 @@
           {
             "item": "Footshard: SAM",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21525,6 +24485,14 @@
           {
             "item": "Headshard: NIN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21548,6 +24516,14 @@
           {
             "item": "Torsoshard: NIN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21571,6 +24547,14 @@
           {
             "item": "Handshard: NIN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21594,6 +24578,14 @@
           {
             "item": "Legshard: NIN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21617,6 +24609,14 @@
           {
             "item": "Footshard: NIN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21640,6 +24640,14 @@
           {
             "item": "Headshard: DRG",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21663,6 +24671,14 @@
           {
             "item": "Torsoshard: DRG",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21686,6 +24702,14 @@
           {
             "item": "Handshard: DRG",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21709,6 +24733,14 @@
           {
             "item": "Legshard: DRG",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21732,6 +24764,14 @@
           {
             "item": "Footshard: DRG",
             "quantity": 2
+					},
+					{
+						"item": "Ruthenium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21755,6 +24795,14 @@
           {
             "item": "Headshard: SMN",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21778,6 +24826,14 @@
           {
             "item": "Torsoshard: SMN",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21801,6 +24857,14 @@
           {
             "item": "Handshard: SMN",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21824,6 +24888,14 @@
           {
             "item": "Legshard: SMN",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21847,6 +24919,14 @@
           {
             "item": "Footshard: SMN",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21870,6 +24950,14 @@
           {
             "item": "Headshard: BLU",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21893,6 +24981,14 @@
           {
             "item": "Torsoshard: BLU",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21916,6 +25012,14 @@
           {
             "item": "Handshard: BLU",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21939,6 +25043,14 @@
           {
             "item": "Legshard: BLU",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21962,6 +25074,14 @@
           {
             "item": "Footshard: BLU",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -21985,6 +25105,14 @@
           {
             "item": "Headshard: COR",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22008,6 +25136,14 @@
           {
             "item": "Torsoshard: COR",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22031,6 +25167,14 @@
           {
             "item": "Handshard: COR",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22054,6 +25198,14 @@
           {
             "item": "Legshard: COR",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22077,6 +25229,14 @@
           {
             "item": "Footshard: COR",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22100,6 +25260,14 @@
           {
             "item": "Headshard: PUP",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22123,6 +25291,14 @@
           {
             "item": "Torsoshard: PUP",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22146,6 +25322,14 @@
           {
             "item": "Handshard: PUP",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22169,6 +25353,14 @@
           {
             "item": "Legshard: PUP",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22192,6 +25384,14 @@
           {
             "item": "Footshard: PUP",
             "quantity": 2
+					},
+					{
+						"item": "Azure Leaf",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22215,6 +25415,14 @@
           {
             "item": "Headshard: DNC",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22238,6 +25446,14 @@
           {
             "item": "Torsoshard: DNC",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22261,6 +25477,14 @@
           {
             "item": "Handshard: DNC",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22284,6 +25508,14 @@
           {
             "item": "Legshard: DNC",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22307,6 +25539,14 @@
           {
             "item": "Footshard: DNC",
             "quantity": 2
+					},
+					{
+						"item": "Cypress Log",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22330,6 +25570,14 @@
           {
             "item": "Headshard: SCH",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22353,6 +25601,14 @@
           {
             "item": "Torsoshard: SCH",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22376,6 +25632,14 @@
           {
             "item": "Handshard: SCH",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22399,6 +25663,14 @@
           {
             "item": "Legshard: SCH",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22422,6 +25694,14 @@
           {
             "item": "Footshard: SCH",
             "quantity": 2
+					},
+					{
+						"item": "Cyan Coral",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22445,6 +25725,14 @@
           {
             "item": "Headshard: GEO",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22468,6 +25756,14 @@
           {
             "item": "Torsoshard: GEO",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22491,6 +25787,14 @@
           {
             "item": "Handshard: GEO",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22514,6 +25818,14 @@
           {
             "item": "Legshard: GEO",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22537,6 +25849,14 @@
           {
             "item": "Footshard: GEO",
             "quantity": 2
+					},
+					{
+						"item": "Khoma Thread",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22560,6 +25880,14 @@
           {
             "item": "Headshard: RUN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Gabbrath Horn",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22583,6 +25911,14 @@
           {
             "item": "Torsoshard: RUN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Yggdreant Bole",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22606,6 +25942,14 @@
           {
             "item": "Handshard: RUN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Bztavian Stinger",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22629,6 +25973,14 @@
           {
             "item": "Legshard: RUN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Waktza Rostrum",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22652,6 +26004,14 @@
           {
             "item": "Footshard: RUN",
             "quantity": 2
+					},
+					{
+						"item": "Niobium Ore",
+						"quantity": 1
+					},
+					{
+						"item": "Rockfin Tooth",
+						"quantity": 1
           }
         ],
         "notes": "Aurix",
@@ -22674,7 +26034,15 @@
         "requirements": [
           {
             "item": "Headshard: WAR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: WAR",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22697,7 +26065,15 @@
         "requirements": [
           {
             "item": "Torsoshard: WAR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: WAR",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22720,7 +26096,15 @@
         "requirements": [
           {
             "item": "Handshard: WAR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: WAR",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22743,7 +26127,15 @@
         "requirements": [
           {
             "item": "Legshard: WAR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: WAR",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22766,7 +26158,15 @@
         "requirements": [
           {
             "item": "Footshard: WAR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: WAR",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22789,7 +26189,15 @@
         "requirements": [
           {
             "item": "Headshard: MNK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: MNK",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22812,7 +26220,15 @@
         "requirements": [
           {
             "item": "Torsoshard: MNK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: MNK",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22835,7 +26251,15 @@
         "requirements": [
           {
             "item": "Handshard: MNK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: MNK",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22858,7 +26282,15 @@
         "requirements": [
           {
             "item": "Legshard: MNK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: MNK",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22881,7 +26313,15 @@
         "requirements": [
           {
             "item": "Footshard: MNK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: MNK",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22904,7 +26344,15 @@
         "requirements": [
           {
             "item": "Headshard: WHM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: WHM",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22927,7 +26375,15 @@
         "requirements": [
           {
             "item": "Torsoshard: WHM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: WHM",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22950,7 +26406,15 @@
         "requirements": [
           {
             "item": "Handshard: WHM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: WHM",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22973,7 +26437,15 @@
         "requirements": [
           {
             "item": "Legshard: WHM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: WHM",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -22996,7 +26468,15 @@
         "requirements": [
           {
             "item": "Footshard: WHM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: WHM",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23019,7 +26499,15 @@
         "requirements": [
           {
             "item": "Headshard: BLM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: BLM",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23042,7 +26530,15 @@
         "requirements": [
           {
             "item": "Torsoshard: BLM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: BLM",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23065,7 +26561,15 @@
         "requirements": [
           {
             "item": "Handshard: BLM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: BLM",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23088,7 +26592,15 @@
         "requirements": [
           {
             "item": "Legshard: BLM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: BLM",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23111,7 +26623,15 @@
         "requirements": [
           {
             "item": "Footshard: BLM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: BLM",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23134,7 +26654,15 @@
         "requirements": [
           {
             "item": "Headshard: RDM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: RDM",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23157,7 +26685,15 @@
         "requirements": [
           {
             "item": "Torsoshard: RDM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: RDM",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23180,7 +26716,15 @@
         "requirements": [
           {
             "item": "Handshard: RDM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: RDM",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23203,7 +26747,15 @@
         "requirements": [
           {
             "item": "Legshard: RDM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: RDM",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23226,7 +26778,15 @@
         "requirements": [
           {
             "item": "Footshard: RDM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: RDM",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23249,7 +26809,15 @@
         "requirements": [
           {
             "item": "Headshard: THF",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: THF",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23272,7 +26840,15 @@
         "requirements": [
           {
             "item": "Torsoshard: THF",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: THF",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23295,7 +26871,15 @@
         "requirements": [
           {
             "item": "Handshard: THF",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: THF",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23318,7 +26902,15 @@
         "requirements": [
           {
             "item": "Legshard: THF",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: THF",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23341,7 +26933,15 @@
         "requirements": [
           {
             "item": "Footshard: THF",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: THF",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23364,7 +26964,15 @@
         "requirements": [
           {
             "item": "Headshard: PLD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: PLD",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23387,7 +26995,15 @@
         "requirements": [
           {
             "item": "Torsoshard: PLD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: PLD",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23410,7 +27026,15 @@
         "requirements": [
           {
             "item": "Handshard: PLD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: PLD",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23433,7 +27057,15 @@
         "requirements": [
           {
             "item": "Legshard: PLD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: PLD",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23456,7 +27088,15 @@
         "requirements": [
           {
             "item": "Footshard: PLD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: PLD",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23479,7 +27119,15 @@
         "requirements": [
           {
             "item": "Headshard: DRK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: DRK",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23502,7 +27150,15 @@
         "requirements": [
           {
             "item": "Torsoshard: DRK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: DRK",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23525,7 +27181,15 @@
         "requirements": [
           {
             "item": "Handshard: DRK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: DRK",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23548,7 +27212,15 @@
         "requirements": [
           {
             "item": "Legshard: DRK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: DRK",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23571,7 +27243,15 @@
         "requirements": [
           {
             "item": "Footshard: DRK",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: DRK",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23594,7 +27274,15 @@
         "requirements": [
           {
             "item": "Headshard: BST",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: BST",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23617,7 +27305,15 @@
         "requirements": [
           {
             "item": "Torsoshard: BST",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: BST",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23640,7 +27336,15 @@
         "requirements": [
           {
             "item": "Handshard: BST",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: BST",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23663,7 +27367,15 @@
         "requirements": [
           {
             "item": "Legshard: BST",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: BST",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23686,7 +27398,15 @@
         "requirements": [
           {
             "item": "Footshard: BST",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: BST",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23709,7 +27429,15 @@
         "requirements": [
           {
             "item": "Headshard: BRD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: BRD",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23732,7 +27460,15 @@
         "requirements": [
           {
             "item": "Torsoshard: BRD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: BRD",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23755,7 +27491,15 @@
         "requirements": [
           {
             "item": "Handshard: BRD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: BRD",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23778,7 +27522,15 @@
         "requirements": [
           {
             "item": "Legshard: BRD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: BRD",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23801,7 +27553,15 @@
         "requirements": [
           {
             "item": "Footshard: BRD",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: BRD",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23824,7 +27584,15 @@
         "requirements": [
           {
             "item": "Headshard: RNG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: RNG",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23847,7 +27615,15 @@
         "requirements": [
           {
             "item": "Torsoshard: RNG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: RNG",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23870,7 +27646,15 @@
         "requirements": [
           {
             "item": "Handshard: RNG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: RNG",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23893,7 +27677,15 @@
         "requirements": [
           {
             "item": "Legshard: RNG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: RNG",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23916,7 +27708,15 @@
         "requirements": [
           {
             "item": "Footshard: RNG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: RNG",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23939,7 +27739,15 @@
         "requirements": [
           {
             "item": "Headshard: SAM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: SAM",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23962,7 +27770,15 @@
         "requirements": [
           {
             "item": "Torsoshard: SAM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: SAM",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -23985,7 +27801,15 @@
         "requirements": [
           {
             "item": "Handshard: SAM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: SAM",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24008,7 +27832,15 @@
         "requirements": [
           {
             "item": "Legshard: SAM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: SAM",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24031,7 +27863,15 @@
         "requirements": [
           {
             "item": "Footshard: SAM",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: SAM",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24054,7 +27894,15 @@
         "requirements": [
           {
             "item": "Headshard: NIN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: NIN",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24077,7 +27925,15 @@
         "requirements": [
           {
             "item": "Torsoshard: NIN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: NIN",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24100,7 +27956,15 @@
         "requirements": [
           {
             "item": "Handshard: NIN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: NIN",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24123,7 +27987,15 @@
         "requirements": [
           {
             "item": "Legshard: NIN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: NIN",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24146,7 +28018,15 @@
         "requirements": [
           {
             "item": "Footshard: NIN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: NIN",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24169,7 +28049,15 @@
         "requirements": [
           {
             "item": "Headshard: DRG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: DRG",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24192,7 +28080,15 @@
         "requirements": [
           {
             "item": "Torsoshard: DRG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: DRG",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24215,7 +28111,15 @@
         "requirements": [
           {
             "item": "Handshard: DRG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: DRG",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24238,7 +28142,15 @@
         "requirements": [
           {
             "item": "Legshard: DRG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: DRG",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24261,7 +28173,15 @@
         "requirements": [
           {
             "item": "Footshard: DRG",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: DRG",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24284,7 +28204,15 @@
         "requirements": [
           {
             "item": "Headshard: SMN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: SMN",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24307,7 +28235,15 @@
         "requirements": [
           {
             "item": "Torsoshard: SMN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: SMN",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24330,7 +28266,15 @@
         "requirements": [
           {
             "item": "Handshard: SMN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: SMN",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24353,7 +28297,15 @@
         "requirements": [
           {
             "item": "Legshard: SMN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: SMN",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24376,7 +28328,15 @@
         "requirements": [
           {
             "item": "Footshard: SMN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: SMN",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24399,7 +28359,15 @@
         "requirements": [
           {
             "item": "Headshard: BLU",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: BLU",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24422,7 +28390,15 @@
         "requirements": [
           {
             "item": "Torsoshard: BLU",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: BLU",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24445,7 +28421,15 @@
         "requirements": [
           {
             "item": "Handshard: BLU",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: BLU",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24468,7 +28452,15 @@
         "requirements": [
           {
             "item": "Legshard: BLU",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: BLU",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24491,7 +28483,15 @@
         "requirements": [
           {
             "item": "Footshard: BLU",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: BLU",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24514,7 +28514,15 @@
         "requirements": [
           {
             "item": "Headshard: COR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: COR",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24537,7 +28545,15 @@
         "requirements": [
           {
             "item": "Torsoshard: COR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: COR",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24560,7 +28576,15 @@
         "requirements": [
           {
             "item": "Handshard: COR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: COR",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24583,7 +28607,15 @@
         "requirements": [
           {
             "item": "Legshard: COR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: COR",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24606,7 +28638,15 @@
         "requirements": [
           {
             "item": "Footshard: COR",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: COR",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24629,7 +28669,15 @@
         "requirements": [
           {
             "item": "Headshard: PUP",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: PUP",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24652,7 +28700,15 @@
         "requirements": [
           {
             "item": "Torsoshard: PUP",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: PUP",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24675,7 +28731,15 @@
         "requirements": [
           {
             "item": "Handshard: PUP",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: PUP",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24698,7 +28762,15 @@
         "requirements": [
           {
             "item": "Legshard: PUP",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: PUP",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24721,7 +28793,15 @@
         "requirements": [
           {
             "item": "Footshard: PUP",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: PUP",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24744,7 +28824,15 @@
         "requirements": [
           {
             "item": "Headshard: DNC",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: DNC",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24767,7 +28855,15 @@
         "requirements": [
           {
             "item": "Torsoshard: DNC",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: DNC",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24790,7 +28886,15 @@
         "requirements": [
           {
             "item": "Handshard: DNC",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: DNC",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24813,7 +28917,15 @@
         "requirements": [
           {
             "item": "Legshard: DNC",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: DNC",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24836,7 +28948,15 @@
         "requirements": [
           {
             "item": "Footshard: DNC",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: DNC",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24859,7 +28979,15 @@
         "requirements": [
           {
             "item": "Headshard: SCH",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: SCH",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24882,7 +29010,15 @@
         "requirements": [
           {
             "item": "Torsoshard: SCH",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: SCH",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24905,7 +29041,15 @@
         "requirements": [
           {
             "item": "Handshard: SCH",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: SCH",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24928,7 +29072,15 @@
         "requirements": [
           {
             "item": "Legshard: SCH",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: SCH",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24951,7 +29103,15 @@
         "requirements": [
           {
             "item": "Footshard: SCH",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: SCH",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24974,7 +29134,15 @@
         "requirements": [
           {
             "item": "Headshard: GEO",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: GEO",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -24997,7 +29165,15 @@
         "requirements": [
           {
             "item": "Torsoshard: GEO",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: GEO",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25020,7 +29196,15 @@
         "requirements": [
           {
             "item": "Handshard: GEO",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: GEO",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25043,7 +29227,15 @@
         "requirements": [
           {
             "item": "Legshard: GEO",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: GEO",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25066,7 +29258,15 @@
         "requirements": [
           {
             "item": "Footshard: GEO",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: GEO",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25089,7 +29289,15 @@
         "requirements": [
           {
             "item": "Headshard: RUN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhead: RUN",
+						"quantity": 2
+					},
+					{
+						"item": "Defiant Scarf",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25112,7 +29320,15 @@
         "requirements": [
           {
             "item": "Torsoshard: RUN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidtorso: RUN",
+						"quantity": 2
+					},
+					{
+						"item": "Hades' Claw",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25135,7 +29351,15 @@
         "requirements": [
           {
             "item": "Handshard: RUN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidhand: RUN",
+						"quantity": 2
+					},
+					{
+						"item": "Macuil Plating",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25158,7 +29382,15 @@
         "requirements": [
           {
             "item": "Legshard: RUN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidleg: RUN",
+						"quantity": 2
+					},
+					{
+						"item": "Tartarian Soul",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",
@@ -25181,7 +29413,15 @@
         "requirements": [
           {
             "item": "Footshard: RUN",
-            "quantity": 3
+						"quantity": 2
+					},
+					{
+						"item": "Voidfoot: RUN",
+						"quantity": 2
+					},
+					{
+						"item": "Plovid Flesh",
+						"quantity": 2
           }
         ],
         "notes": "Aurix",

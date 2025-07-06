@@ -59,7 +59,7 @@ function App() {
 
   const mainContent = (
     <div className="min-h-screen bg-gray-100">
-      <header className="bg-gray-800 text-white p-4">
+      <header className="bg-fuchsia-800 text-white p-4">
         <h1 className="text-2xl font-bold text-center">FFXI Armor Upgrade Guide</h1>
       </header>
       

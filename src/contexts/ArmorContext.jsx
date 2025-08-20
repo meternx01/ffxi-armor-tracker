@@ -35,8 +35,91 @@ export function ArmorProvider({ children }) {
     });
   };
 
+  const setRequirementCount = (jobName, armorType, itemName, step, requirement, count) => {
+    setProgression(prev => {
+      const jobProgress = prev[jobName] || {};
+      const armorProgress = jobProgress[armorType] || {};
+      const itemProgress = armorProgress[itemName] || {};
+      const stepProgress = itemProgress[step] || {};
+      return {
+        ...prev,
+        [jobName]: {
+          ...jobProgress,
+          [armorType]: {
+            ...armorProgress,
+            [itemName]: {
+              ...itemProgress,
+              [step]: {
+                ...stepProgress,
+                [requirement]: count
+              }
+            }
+          }
+        }
+      };
+    });
+  };
+
+  const incrementRequirementCount = (jobName, armorType, itemName, step, requirement) => {
+    setProgression(prev => {
+      const jobProgress = prev[jobName] || {};
+      const armorProgress = jobProgress[armorType] || {};
+      const itemProgress = armorProgress[itemName] || {};
+      const stepProgress = itemProgress[step] || {};
+      const currentCount = typeof stepProgress[requirement] === 'number' ? stepProgress[requirement] : 0;
+      const newCount = currentCount + 1;
+      console.log('incrementRequirementCount:', { jobName, armorType, itemName, step, requirement, currentCount, newCount });
+      return {
+        ...prev,
+        [jobName]: {
+          ...jobProgress,
+          [armorType]: {
+            ...armorProgress,
+            [itemName]: {
+              ...itemProgress,
+              [step]: {
+                ...stepProgress,
+                [requirement]: newCount
+              }
+            }
+          }
+        }
+      };
+    });
+  };
+
+  const decrementRequirementCount = (jobName, armorType, itemName, step, requirement) => {
+    setProgression(prev => {
+      const jobProgress = prev[jobName] || {};
+      const armorProgress = jobProgress[armorType] || {};
+      const itemProgress = armorProgress[itemName] || {};
+      const stepProgress = itemProgress[step] || {};
+      const currentCount = typeof stepProgress[requirement] === 'number' ? stepProgress[requirement] : 0;
+      const newCount = Math.max(0, currentCount - 1);
+      console.log('decrementRequirementCount:', { jobName, armorType, itemName, step, requirement, currentCount, newCount });
+      return {
+        ...prev,
+        [jobName]: {
+          ...jobProgress,
+          [armorType]: {
+            ...armorProgress,
+            [itemName]: {
+              ...itemProgress,
+              [step]: {
+                ...stepProgress,
+                [requirement]: newCount
+              }
+            }
+          }
+        }
+      };
+    });
+  };
+
   const getStepProgress = (jobName, armorType, itemName, step) => {
-    return progression[jobName]?.[armorType]?.[itemName]?.[step] || {};
+    const progress = progression[jobName]?.[armorType]?.[itemName]?.[step] || {};
+    console.log('getStepProgress:', { jobName, armorType, itemName, step, progress });
+    return progress;
   };
 
   const calculateProgress = (jobName, armorType, itemName, step, requirements) => {
@@ -45,10 +128,13 @@ export function ArmorProvider({ children }) {
     let totalRequirements = 0;
 
     requirements.forEach(req => {
-      const reqKey = typeof req === 'string' ? req : `${req.item}_${req.quantity}`;
-      if (stepProgress[reqKey]) {
-        completedCount++;
+      let isComplete;
+      if (typeof req === 'string') {
+        isComplete = !!stepProgress[req];
+      } else {
+        isComplete = (stepProgress[req.item] || 0) >= req.quantity;
       }
+      if (isComplete) completedCount++;
       totalRequirements++;
     });
 
@@ -149,16 +235,21 @@ export function ArmorProvider({ children }) {
   };
 
   return (
-    <ArmorContext.Provider value={{
-      progression,
-      toggleRequirement,
-      getStepProgress,
-      calculateProgress,
-      resetProgress,
-      isUpgradeComplete,
-      completeUpgrade,
-      currentTiers
-    }}>
+    <ArmorContext.Provider
+      value={{
+        progression,
+        toggleRequirement,
+        setRequirementCount,
+        incrementRequirementCount,
+        decrementRequirementCount,
+        getStepProgress,
+        calculateProgress,
+        resetProgress,
+        isUpgradeComplete,
+        completeUpgrade,
+        currentTiers
+      }}
+    >
       {children}
     </ArmorContext.Provider>
   );

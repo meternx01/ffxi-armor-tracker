@@ -2,32 +2,32 @@ import React, { useEffect } from 'react';
 import { useArmor } from '../contexts/ArmorContext';
 
 function ArmorPieceCard({ slot, data, jobId, armorType }) {
-  const { 
-    getCurrentTier, 
-    getCompletedRequirements, 
-    toggleRequirement, 
+  const {
+    getCurrentTier,
+    getStepProgress,
+    incrementRequirementCount,
+    decrementRequirementCount,
     upgradeToNextTier,
     debug
   } = useArmor();
 
   const currentTier = getCurrentTier(jobId, armorType, slot);
-  const completedRequirements = getCompletedRequirements(jobId, armorType, slot);
-  
-  // Get the current upgrade information
   const currentUpgrade = data?.UpgradePath?.[currentTier];
   const hasNextTier = data?.UpgradePath?.length > currentTier;
-  
+
+  // Parse requirements as objects
+  const requirements = currentUpgrade?.requirements ?? [];
+  const stepProgress = getStepProgress(jobId, armorType, slot, currentTier);
+
   // Calculate if all requirements are met for upgrade
-  const requirements = currentUpgrade?.requirements?.split(', ') ?? [];
-  const canUpgrade = requirements.length > 0 && 
-    requirements.every(req => completedRequirements.includes(req));
+  const canUpgrade = requirements.length > 0 &&
+    requirements.every(req => (stepProgress[req.item] || 0) >= req.quantity);
 
   // Calculate progress percentage
-  const progressPercentage = requirements.length > 0
-    ? (completedRequirements.length / requirements.length) * 100
-    : 0;
+  const totalRequired = requirements.reduce((sum, req) => sum + req.quantity, 0);
+  const totalCompleted = requirements.reduce((sum, req) => sum + Math.min(stepProgress[req.item] || 0, req.quantity), 0);
+  const progressPercentage = totalRequired > 0 ? (totalCompleted / totalRequired) * 100 : 0;
 
-  // Debug logging
   useEffect(() => {
     if (debug) {
       console.log('ArmorPiece Data:', {
@@ -35,12 +35,12 @@ function ArmorPieceCard({ slot, data, jobId, armorType }) {
         currentTier,
         currentUpgrade,
         requirements,
-        completedRequirements,
+        stepProgress,
         canUpgrade,
         data
       });
     }
-  }, [slot, currentTier, currentUpgrade, requirements, completedRequirements, canUpgrade, data, debug]);
+  }, [slot, currentTier, currentUpgrade, requirements, stepProgress, canUpgrade, data, debug]);
 
   if (!data) return null;
 
@@ -72,16 +72,26 @@ function ArmorPieceCard({ slot, data, jobId, armorType }) {
           <h4 className="text-md font-medium">Requirements for next tier:</h4>
           <ul className="space-y-2">
             {requirements.map((req) => (
-              <li key={req} className="flex items-center">
-                <input
-                  type="checkbox"
-                  checked={completedRequirements.includes(req)}
-                  onChange={() => toggleRequirement(jobId, armorType, slot, req, currentTier)}
-                  className="w-4 h-4 mr-2 rounded border-gray-300 text-blue-600 focus:ring-blue-500"
-                />
-                <span className={completedRequirements.includes(req) ? 'text-gray-500' : ''}>
-                  {req}
+              <li key={req.item} className="flex items-center space-x-2">
+                <span className={stepProgress[req.item] >= req.quantity ? 'text-gray-500' : ''}>
+                  {req.item}: {stepProgress[req.item] || 0} / {req.quantity}
                 </span>
+                <button
+                  className="ml-2 px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
+                  onClick={() => decrementRequirementCount(jobId, armorType, slot, currentTier, req.item)}
+                  disabled={(stepProgress[req.item] || 0) <= 0}
+                  aria-label={`Decrease ${req.item}`}
+                >
+                  −
+                </button>
+                <button
+                  className="px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
+                  onClick={() => incrementRequirementCount(jobId, armorType, slot, currentTier, req.item)}
+                  disabled={(stepProgress[req.item] || 0) >= req.quantity}
+                  aria-label={`Increase ${req.item}`}
+                >
+                  +
+                </button>
               </li>
             ))}
           </ul>

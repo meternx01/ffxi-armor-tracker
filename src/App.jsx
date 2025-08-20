@@ -2,6 +2,7 @@
 import React, { useState, useEffect } from 'react';
 import ArmorList from './components/ArmorList';
 import { ArmorProvider } from './contexts/ArmorContext';
+import CharacterSelector from './components/CharacterSelector';
 
 function App() {
   const [jobs, setJobs] = useState([]);
@@ -62,7 +63,7 @@ function App() {
       <header className="bg-fuchsia-800 text-white p-4">
         <h1 className="text-2xl font-bold text-center">FFXI Armor Upgrade Guide</h1>
       </header>
-      
+      <CharacterSelector />
       <main className="container mx-auto p-4">
         <div className="flex gap-4 mb-6">
           <select

@@ -13,7 +13,6 @@ function ArmorPieceCard({ slot, data, jobId, armorType }) {
 
   const currentTier = getCurrentTier(jobId, armorType, slot);
   const currentUpgrade = data?.UpgradePath?.[currentTier];
-  const hasNextTier = data?.UpgradePath?.length > currentTier;
 
   // Parse requirements as objects
   const requirements = currentUpgrade?.requirements ?? [];
@@ -73,7 +72,7 @@ function ArmorPieceCard({ slot, data, jobId, armorType }) {
       {upgradePaths.length > 0 ? (
         <div className="space-y-4">
           <h4 className="text-md font-medium">Requirements for next tier:</h4>
-          {upgradePaths.map((path, idx) => {
+          {upgradePaths.map((path) => {
             const stepProgress = getStepProgress(jobId, armorType, slot, currentTier);
             const canUpgrade = path.requirements.every(req => (stepProgress[req.item] || 0) >= req.quantity);
             const isCompleted = path.completed; // You may need to adjust this based on your context

@@ -261,20 +261,68 @@ export function ArmorProvider({ children }) {
     });
   };
 
-  const resetProgress = (jobName, armorType, itemName) => {
+  const resetProgress = (jobName, armorType, itemName, upgradePathNames = []) => {
     const char = getSelectedCharacter();
-    // Reset requirements progress
+    console.log('[resetProgress] args:', { jobName, armorType, itemName, upgradePathNames });
+    console.log('[resetProgress] BEFORE progression:', JSON.stringify(char.progression, null, 2));
+    console.log('[resetProgress] BEFORE completedUpgrades:', JSON.stringify(char.completedUpgrades, null, 2));
+    // Reset requirements progress for all upgrade paths
     const progression = char.progression || {};
     const newProgression = { ...progression };
-    if (newProgression[jobName]?.[armorType]?.[itemName]) {
-      delete newProgression[jobName][armorType][itemName];
+    if (newProgression[jobName]?.[armorType]) {
+      if (upgradePathNames.length > 0) {
+        Object.keys(newProgression[jobName][armorType]).forEach(key => {
+          if (upgradePathNames.includes(key)) {
+            delete newProgression[jobName][armorType][key];
+          }
+        });
+        // Defensive: Remove all keys for the item in progression and completedUpgrades
+        if (newProgression[jobName]?.[armorType]) {
+          Object.keys(newProgression[jobName][armorType]).forEach(key => {
+            delete newProgression[jobName][armorType][key];
+          });
+          delete newProgression[jobName][armorType];
+        }
+      } else {
+        // If no upgradePathNames, delete all keys for this item
+        Object.keys(newProgression[jobName][armorType]).forEach(key => {
+          delete newProgression[jobName][armorType][key];
+        });
+        delete newProgression[jobName][armorType];
+      }
     }
-    // Reset completed upgrades
+    // Reset completed upgrades for all upgrade paths
     const completedUpgrades = char.completedUpgrades || {};
     const newCompleted = { ...completedUpgrades };
-    if (newCompleted[jobName]?.[armorType]?.[itemName]) {
-      delete newCompleted[jobName][armorType][itemName];
+    if (newCompleted[jobName]?.[armorType]) {
+      if (newCompleted[jobName][armorType][itemName]) {
+        if (upgradePathNames.length > 0) {
+          Object.keys(newCompleted[jobName][armorType][itemName]).forEach(stepKey => {
+            if (upgradePathNames.includes(stepKey)) {
+              delete newCompleted[jobName][armorType][itemName][stepKey];
+            }
+          });
+          // Fallback: Remove all steps for the item
+          upgradePathNames.forEach(upgradeName => {
+            if (newCompleted[jobName][armorType][itemName][upgradeName]) {
+              delete newCompleted[jobName][armorType][itemName][upgradeName];
+            }
+          });
+          if (Object.keys(newCompleted[jobName][armorType][itemName]).length === 0) {
+            delete newCompleted[jobName][armorType][itemName];
+          }
+        } else {
+          delete newCompleted[jobName][armorType][itemName];
+        }
+      }
+      // Defensive: if armorType is now empty, delete it
+      if (Object.keys(newCompleted[jobName][armorType]).length === 0) {
+        delete newCompleted[jobName][armorType];
+      }
     }
+    // Debug output for AFTER state
+    console.log('[resetProgress] AFTER progression:', JSON.stringify(newProgression, null, 2));
+    console.log('[resetProgress] AFTER completedUpgrades:', JSON.stringify(newCompleted, null, 2));
     // Reset current tier
     const currentTiers = char.currentTiers || {};
     const jobTiers = currentTiers[jobName] || {};
@@ -300,6 +348,8 @@ export function ArmorProvider({ children }) {
       progression: newProgression,
       completedUpgrades: newCompleted
     });
+    console.log('[resetProgress] AFTER progression:', JSON.stringify(newProgression, null, 2));
+    console.log('[resetProgress] AFTER completedUpgrades:', JSON.stringify(newCompleted, null, 2));
   };
 
   // Defensive wrappers for context functions

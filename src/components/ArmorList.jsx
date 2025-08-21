@@ -19,8 +19,12 @@ function ArmorList({ job, armorType }) {
         // Get base URL from import.meta.env.BASE_URL or default to '/'
         const base = import.meta.env.BASE_URL || '/';
         const response = await fetch(`${base}data/${armorType}.json?t=${timestamp}`);
-        if (!response.ok) throw new Error(`Failed to load ${armorType} data`);
-        
+        if (!response.ok) {
+          setError(`Failed to load ${armorType} data`);
+          setLoading(false);
+          return;
+        }
+
         const data = await response.json();
         const filteredData = data
           .filter(item => item.Job === job)

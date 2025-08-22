@@ -124,21 +124,20 @@ export function ArmorProvider({ children }) {
 
   const calculateProgress = (jobName, armorType, itemName, step, requirements) => {
     const stepProgress = getStepProgress(jobName, armorType, itemName, step);
-    let completedCount = 0;
-    let totalRequirements = 0;
+    let progressSum = 0;
+    let totalRequirements = requirements.length;
 
     requirements.forEach(req => {
-      let isComplete;
       if (typeof req === 'string') {
-        isComplete = !!stepProgress[req];
+        progressSum += !!stepProgress[req] ? 1 : 0;
       } else {
-        isComplete = (stepProgress[req.item] || 0) >= req.quantity;
+        const current = stepProgress[req.item] || 0;
+        const required = req.quantity;
+        progressSum += Math.min(current / required, 1);
       }
-      if (isComplete) completedCount++;
-      totalRequirements++;
     });
 
-    return totalRequirements > 0 ? (completedCount / totalRequirements) * 100 : 0;
+    return totalRequirements > 0 ? (progressSum / totalRequirements) * 100 : 0;
   };
 
   const isUpgradeComplete = (jobName, armorType, itemName, step) => {

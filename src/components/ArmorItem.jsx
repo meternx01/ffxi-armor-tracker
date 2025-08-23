@@ -119,7 +119,24 @@ function ArmorItem({ item, slot, armorType }) {
                   <span className="ml-2 text-green-500" title="Complete">&#10003;</span>
                 )}
               </span>
-              {!isSingle && (
+              {!isSingle && requiredQty > 50 && (
+                <input
+                  type="number"
+                  min={0}
+                  max={requiredQty}
+                  value={currentQty}
+                  onChange={e => {
+                    let val = parseInt(e.target.value, 10);
+                    if (isNaN(val)) val = 0;
+                    if (val < 0) val = 0;
+                    if (val > requiredQty) val = requiredQty;
+                    setRequirementCount(item.Job, armorType, path.name, path.name, reqKey, val);
+                  }}
+                  className="ml-2 w-24 px-2 py-1 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                  aria-label={`Set ${reqKey} count`}
+                />
+              )}
+              {!isSingle && requiredQty <= 50 && (
                 <>
                   <button
                     className="ml-2 px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"

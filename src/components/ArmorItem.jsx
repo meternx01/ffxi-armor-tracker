@@ -70,124 +70,129 @@ function ArmorItem({ item, slot, armorType }) {
     </div>
   );
 
-  const renderUpgradePath = (path, index) => {
-    // Get the base item name from currentTiers if this is an upgraded item
-    const baseItemName = Object.entries(currentTiers[item.Job]?.[armorType] || {}).find(
-      ([, value]) => value === item.Name
-    )?.[0] || item.Name;
-    
-    // Use path.name as the itemName for all state reads and updates for this upgrade tier
-    const completed = isUpgradeComplete(item.Job, armorType, path.name, path.name);
-    const stepProgress = getStepProgress(item.Job, armorType, path.name, path.name);
-    const progress = calculateProgress(item.Job, armorType, path.name, path.name, path.requirements);
+  // Render all upgrade paths for this item, skipping completed ones
+  const renderAllUpgradePaths = () => {
+    if (!item.upgradePaths || item.upgradePaths.length === 0) return null;
+    // Check if all upgrade paths are completed
+    const allCompleted = item.upgradePaths.every(path =>
+      isUpgradeComplete(item.Job, armorType, path.name, path.name)
+    );
+    if (allCompleted) return null; // Only show name and icon in main render
+    return item.upgradePaths.map((path, index) => {
+      // If requirements are empty, do not render this path (final tier)
+      if (!path.requirements || path.requirements.length === 0) return null;
 
-    if (completed) {
-      return null; // Don't render completed upgrades as we'll show the new item instead
-    }
-
-    const renderRequirements = (path) => (
-      <div className="mt-3 space-y-2">
-        {path.requirements.map((req, reqIndex) => {
-          const reqKey = typeof req === 'string' ? req : req.item;
-          const requiredQty = typeof req === 'string' ? 1 : req.quantity;
-          const isSingle = requiredQty === 1;
-          const currentQty = isSingle ? !!stepProgress[reqKey] : stepProgress[reqKey] || 0;
-          const isComplete = isSingle ? !!stepProgress[reqKey] : currentQty >= requiredQty;
-          // Handler for checkbox change
-          const handleCheckboxChange = (e) => {
-            if (isSingle) {
-              toggleRequirement(item.Job, armorType, path.name, path.name, reqKey);
-            } else {
-              // For multi-quantity: check sets to requiredQty, uncheck sets to 0
-              const checked = e.target.checked;
-              setRequirementCount(item.Job, armorType, path.name, path.name, reqKey, checked ? requiredQty : 0);
-            }
-          };
-          return (
-            <div key={reqIndex} className={`flex items-center space-x-2 p-2 rounded hover:bg-gray-200 transition-colors duration-200 ${isComplete ? 'bg-green-50' : ''}`}>
-              <input
-                type="checkbox"
-                className="form-checkbox h-4 w-4 text-blue-600 rounded transition-colors duration-200"
-                checked={isComplete}
-                onChange={handleCheckboxChange}
-                aria-label={`Mark ${reqKey} as complete`}
-              />
-              <span className={isComplete ? 'text-green-700 font-semibold flex items-center' : 'text-gray-700'}>
-                {typeof req === 'string' ? req : req.item}
-                {isSingle ? '' : `: ${currentQty} / ${requiredQty}`}
-                {isComplete && (
-                  <span className="ml-2 text-green-500" title="Complete">&#10003;</span>
-                )}
-              </span>
-              {!isSingle && requiredQty > 50 && (
+      const baseItemName = Object.entries(currentTiers[item.Job]?.[armorType] || {}).find(
+        ([, value]) => value === item.Name
+      )?.[0] || item.Name;
+      const completed = isUpgradeComplete(item.Job, armorType, path.name, path.name);
+      if (completed) return null;
+      const stepProgress = getStepProgress(item.Job, armorType, path.name, path.name);
+      const progress = calculateProgress(item.Job, armorType, path.name, path.name, path.requirements);
+      const renderRequirements = (path) => (
+        <div className="mt-3 space-y-2">
+          {path.requirements.map((req, reqIndex) => {
+            const reqKey = typeof req === 'string' ? req : req.item;
+            const requiredQty = typeof req === 'string' ? 1 : req.quantity;
+            const isSingle = requiredQty === 1;
+            const currentQty = isSingle ? !!stepProgress[reqKey] : stepProgress[reqKey] || 0;
+            const isComplete = isSingle ? !!stepProgress[reqKey] : currentQty >= requiredQty;
+            const handleCheckboxChange = (e) => {
+              if (isSingle) {
+                toggleRequirement(item.Job, armorType, path.name, path.name, reqKey);
+              } else {
+                const checked = e.target.checked;
+                setRequirementCount(item.Job, armorType, path.name, path.name, reqKey, checked ? requiredQty : 0);
+              }
+            };
+            return (
+              <div key={reqIndex} className={`flex items-center space-x-2 p-2 rounded hover:bg-gray-200 transition-colors duration-200 ${isComplete ? 'bg-green-50' : ''}`}>
                 <input
-                  type="number"
-                  min={0}
-                  max={requiredQty}
-                  value={currentQty}
-                  onChange={e => {
-                    let val = parseInt(e.target.value, 10);
-                    if (isNaN(val)) val = 0;
-                    if (val < 0) val = 0;
-                    if (val > requiredQty) val = requiredQty;
-                    setRequirementCount(item.Job, armorType, path.name, path.name, reqKey, val);
-                  }}
-                  className="ml-2 w-24 px-2 py-1 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
-                  aria-label={`Set ${reqKey} count`}
+                  type="checkbox"
+                  className="form-checkbox h-4 w-4 text-blue-600 rounded transition-colors duration-200"
+                  checked={isComplete}
+                  onChange={handleCheckboxChange}
+                  aria-label={`Mark ${reqKey} as complete`}
                 />
-              )}
-              {!isSingle && requiredQty <= 50 && (
-                <>
-                  <button
-                    className="ml-2 px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
-                    onClick={() => {
-                      decrementRequirementCount(item.Job, armorType, path.name, path.name, reqKey);
+                <span className={isComplete ? 'text-green-700 font-semibold flex items-center' : 'text-gray-700'}>
+                  {typeof req === 'string' ? req : req.item}
+                  {isSingle ? '' : `: ${currentQty} / ${requiredQty}`}
+                  {isComplete && (
+                    <span className="ml-2 text-green-500" title="Complete">&#10003;</span>
+                  )}
+                </span>
+                {!isSingle && requiredQty > 50 && (
+                  <input
+                    type="number"
+                    min={0}
+                    max={requiredQty}
+                    value={currentQty}
+                    onChange={e => {
+                      let val = parseInt(e.target.value, 10);
+                      if (isNaN(val)) val = 0;
+                      if (val < 0) val = 0;
+                      if (val > requiredQty) val = requiredQty;
+                      setRequirementCount(item.Job, armorType, path.name, path.name, reqKey, val);
                     }}
-                    disabled={currentQty <= 0}
-                    aria-label={`Decrease ${reqKey}`}
-                  >
-                    −
-                  </button>
-                  <button
-                    className="px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
-                    onClick={() => {
-                      incrementRequirementCount(item.Job, armorType, path.name, path.name, reqKey);
-                    }}
-                    disabled={currentQty >= requiredQty}
-                    aria-label={`Increase ${reqKey}`}
-                  >
-                    +
-                  </button>
-                </>
+                    className="ml-2 w-24 px-2 py-1 border rounded focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    aria-label={`Set ${reqKey} count`}
+                  />
+                )}
+                {!isSingle && requiredQty <= 50 && (
+                  <>
+                    <button
+                      className="ml-2 px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
+                      onClick={() => {
+                        decrementRequirementCount(item.Job, armorType, path.name, path.name, reqKey);
+                      }}
+                      disabled={currentQty <= 0}
+                      aria-label={`Decrease ${reqKey}`}
+                    >
+                      −
+                    </button>
+                    <button
+                      className="px-2 py-1 bg-gray-200 rounded hover:bg-gray-300"
+                      onClick={() => {
+                        incrementRequirementCount(item.Job, armorType, path.name, path.name, reqKey);
+                      }}
+                      disabled={currentQty >= requiredQty}
+                      aria-label={`Increase ${reqKey}`}
+                    >
+                      +
+                    </button>
+                  </>
+                )}
+              </div>
+            );
+          })}
+        </div>
+      );
+
+      return (
+        <div key={index} className="mb-4 p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors duration-200">
+          <div className="flex justify-between items-center mb-2">
+            <h3 className="font-semibold text-gray-700">{path.name}</h3>
+            <div className="flex items-center space-x-2">
+              <span className="text-sm text-gray-500">{Math.round(progress)}%</span>
+              {progress === 100 && (
+                <button
+                  onClick={() => completeUpgrade(item.Job, armorType, baseItemName, path.name, path.name)}
+                  className="px-3 py-1 bg-green-500 text-white text-sm rounded-md hover:bg-green-600 transition-colors duration-200"
+                >
+                  Complete Upgrade
+                </button>
               )}
             </div>
-          );
-        })}
-      </div>
-    );
-
-    return (
-      <div key={index} className="mb-4 p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition-colors duration-200">
-        <div className="flex justify-between items-center mb-2">
-          <h3 className="font-semibold text-gray-700">{path.name}</h3>
-          <div className="flex items-center space-x-2">
-            <span className="text-sm text-gray-500">{Math.round(progress)}%</span>
-            {progress === 100 && (
-              <button
-                onClick={() => completeUpgrade(item.Job, armorType, baseItemName, path.name, path.name)}
-                className="px-3 py-1 bg-green-500 text-white text-sm rounded-md hover:bg-green-600 transition-colors duration-200"
-              >
-                Complete Upgrade
-              </button>
-            )}
           </div>
+          {renderProgressBar(progress)}
+          {renderRequirements(path)}
         </div>
-        {renderProgressBar(progress)}
-        {renderRequirements(path)}
-      </div>
-    );
+      );
+    });
   };
 
+  // Remove isAtFinalTier logic and always render upgrade paths except completed ones
+  // Only render the current upgrade path's requirements
   return (
     <div className="p-4 bg-white rounded-xl shadow-sm hover:shadow-md transition-shadow duration-200">
       <div className="flex items-start space-x-4 mb-4">
@@ -202,7 +207,9 @@ function ArmorItem({ item, slot, armorType }) {
                 const baseItemName = Object.entries(currentTiers[item.Job]?.[armorType] || {}).find(
                   ([, value]) => value === item.Name
                 )?.[0] || item.Name;
-                resetProgress(item.Job, armorType, baseItemName);
+                // Pass all upgrade path names to resetProgress
+                const upgradePathNames = item.upgradePaths ? item.upgradePaths.map(path => path.name) : [];
+                resetProgress(item.Job, armorType, baseItemName, upgradePathNames);
               }}
               className="text-sm px-3 py-1 text-red-600 hover:bg-red-50 rounded-md transition-colors duration-200"
               title="Reset progress for this item"
@@ -215,12 +222,8 @@ function ArmorItem({ item, slot, armorType }) {
           )}
         </div>
       </div>
-      
-      <div className="space-y-4">
-        {item.upgradePaths && item.upgradePaths.map((path, index) => (
-          renderUpgradePath(path, index)
-        ))}
-      </div>
+      {/* Render all incomplete upgrade paths for this item, unless all are completed */}
+      {renderAllUpgradePaths()}
     </div>
   );
 }

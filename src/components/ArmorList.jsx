@@ -7,7 +7,7 @@ function ArmorList({ job, armorType }) {
   const [armorData, setArmorData] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const { currentTiers, isUpgradeComplete } = useArmor();
+  const { currentTiers, isUpgradeComplete, characters } = useArmor();
 
   useEffect(() => {
     const loadArmorData = async () => {
@@ -19,8 +19,12 @@ function ArmorList({ job, armorType }) {
         // Get base URL from import.meta.env.BASE_URL or default to '/'
         const base = import.meta.env.BASE_URL || '/';
         const response = await fetch(`${base}data/${armorType}.json?t=${timestamp}`);
-        if (!response.ok) throw new Error(`Failed to load ${armorType} data`);
-        
+        if (!response.ok) {
+          setError(`Failed to load ${armorType} data`);
+          setLoading(false);
+          return;
+        }
+
         const data = await response.json();
         const filteredData = data
           .filter(item => item.Job === job)
@@ -55,6 +59,14 @@ function ArmorList({ job, armorType }) {
 
   if (loading) return <div>Loading armor data...</div>;
   if (error) return <div className="text-red-500">Error: {error}</div>;
+
+  if (!characters || characters.length === 0) {
+    return (
+      <div className="text-center text-gray-500 mt-8">
+        No character selected. Please add a character to begin tracking armor progression.
+      </div>
+    );
+  }
 
   // Group armor by slot
   const slots = ['Head', 'Body', 'Hands', 'Legs', 'Feet'];

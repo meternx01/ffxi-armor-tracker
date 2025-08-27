@@ -262,9 +262,7 @@ export function ArmorProvider({ children }) {
 
   const resetProgress = (jobName, armorType, itemName, upgradePathNames = []) => {
     const char = getSelectedCharacter();
-    console.log('[resetProgress] args:', { jobName, armorType, itemName, upgradePathNames });
-    console.log('[resetProgress] BEFORE progression:', JSON.stringify(char.progression, null, 2));
-    console.log('[resetProgress] BEFORE completedUpgrades:', JSON.stringify(char.completedUpgrades, null, 2));
+
     // Reset requirements progress for all upgrade paths
     const progression = char.progression || {};
     const newProgression = { ...progression };
@@ -275,13 +273,7 @@ export function ArmorProvider({ children }) {
             delete newProgression[jobName][armorType][key];
           }
         });
-        // Defensive: Remove all keys for the item in progression and completedUpgrades
-        if (newProgression[jobName]?.[armorType]) {
-          Object.keys(newProgression[jobName][armorType]).forEach(key => {
-            delete newProgression[jobName][armorType][key];
-          });
-          delete newProgression[jobName][armorType];
-        }
+        // Only delete specified upgrade paths; do not remove all keys or the armorType object.
       } else {
         // If no upgradePathNames, delete all keys for this item
         Object.keys(newProgression[jobName][armorType]).forEach(key => {
@@ -301,12 +293,7 @@ export function ArmorProvider({ children }) {
               delete newCompleted[jobName][armorType][itemName][stepKey];
             }
           });
-          // Fallback: Remove all steps for the item
-          upgradePathNames.forEach(upgradeName => {
-            if (newCompleted[jobName][armorType][itemName][upgradeName]) {
-              delete newCompleted[jobName][armorType][itemName][upgradeName];
-            }
-          });
+
           if (Object.keys(newCompleted[jobName][armorType][itemName]).length === 0) {
             delete newCompleted[jobName][armorType][itemName];
           }
@@ -347,8 +334,7 @@ export function ArmorProvider({ children }) {
       progression: newProgression,
       completedUpgrades: newCompleted
     });
-    console.log('[resetProgress] AFTER progression:', JSON.stringify(newProgression, null, 2));
-    console.log('[resetProgress] AFTER completedUpgrades:', JSON.stringify(newCompleted, null, 2));
+
   };
 
   // Defensive wrappers for context functions
